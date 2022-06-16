@@ -2,7 +2,7 @@
 
 A counter designed to keep track for any counting activity
 
-![counter-gif](http://placecorgi.com/1200/650)
+![counter-gif](https://github.com/100-Days-of-Javascript/Day1_CounterApp/blob/c47c53834357b2df32ab62da48fd78e5b8197d93/day1.gif)
 
 ## How It's Made:
 
