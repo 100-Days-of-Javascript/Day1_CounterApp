@@ -21,4 +21,15 @@ buttons.addEventListener("click", (event) => {
         console.log("Substracting...");
         counter.innerHTML--;
     }
+    setColor();
 })
+
+function setColor() {
+    if (counter.innerHTML > 0) {
+        counter.style.color = 'yellow';
+    } else if (counter.innerHTML < 0) {
+        counter.style.color = 'orangered';
+    } else {
+        counter.style.color = '#fff';
+    }
+}
